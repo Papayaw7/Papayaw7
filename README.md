@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Papayaw7
 - 👀 I’m interested in Game Development with Unity
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on 2D unity projects
+- 🌱 Computer Science Graduate 2023
+- 💞️ I’m looking to collaborate on 2D and VR unity projects
 - 📫 How to reach me wayapap7@gmail.com for email
 
 <!---
